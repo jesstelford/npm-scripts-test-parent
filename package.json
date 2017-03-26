@@ -1,0 +1,9 @@
+{
+  "name": "npm-scripts-test-parent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "npm-scripts-test": "2.0.0"
+  }
+}
